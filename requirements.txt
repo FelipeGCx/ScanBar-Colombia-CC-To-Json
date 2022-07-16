@@ -1,0 +1,13 @@
+attrs==21.4.0
+iniconfig==1.1.1
+numpy==1.23.1
+opencv-python==4.6.0.66
+packaging==21.3
+pdf417decoder==1.0.8
+Pillow==9.2.0
+pluggy==1.0.0
+py==1.11.0
+pyparsing==3.0.9
+pytest==7.1.2
+python-dotenv==0.20.0
+tomli==2.0.1
