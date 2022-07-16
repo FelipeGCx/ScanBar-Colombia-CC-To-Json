@@ -26,7 +26,10 @@ source venv/bin/activate
 ``` bash
 pip install -r requirements.txt 
 ```
-
+### Open app.py and change `image_path` variable
+``` python
+image_path = 'my_directory/my_barcode.jpg'
+```
 ### Run the app
 ``` bash
 python3 src/app.py
