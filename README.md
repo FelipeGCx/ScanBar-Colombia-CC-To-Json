@@ -5,7 +5,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/FelipeGCx/ScanBar-Colombia-CC-To-Json
+git clone https://github.com/FelipeGCx/ScanBar-Colombia-CC-To-Json
 ```
 
 ### Install virtual enviroment if you don't have one
